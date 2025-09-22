@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "employee_id": "101001",
+        "name": "\ubc15\uc885\uc6b1",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 2,
+        "employee_id": "101002",
+        "name": "\uac15\uacbd\ub780",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 3,
+        "employee_id": "101003",
+        "name": "\uae40\ub098\ub798",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 4,
+        "employee_id": "101004",
+        "name": "\uc774\uc7ac\uc9c4",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 5,
+        "employee_id": "101005",
+        "name": "\uc774\uc9c4\uc12d",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 6,
+        "employee_id": "101006",
+        "name": "\uc7a5\ucc2c\uc601",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 7,
+        "employee_id": "101007",
+        "name": "\uc804\ubbfc\uc6b0",
+        "reg_date": "2025-09-18 14:09:01"
+    },
+    {
+        "id": 8,
+        "employee_id": "101008",
+        "name": "\ucc28\uc694\uc900",
+        "reg_date": "2025-09-18 14:09:01"
+    }
+]
