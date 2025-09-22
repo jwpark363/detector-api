@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 app/data/recognition_train_image/
 app/data/uploads/
+app/models/
 
 # Virtual environments
 .venv/
